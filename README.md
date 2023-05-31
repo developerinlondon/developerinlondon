@@ -1,7 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayem Syed!
-
-<h3 align="center">The Original "Developer In London". Professional Nerd 🤓  , Digital Marketer and AI Consultant from UK 🇬🇧</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayem Syed!</h1>
+<h3 align="center">The Original "Developer In London". Professional AI Consultant, Growth Partner & Digital Marketer from UK 🇬🇧</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=developerinlondon alt=developerinlondon/> </p>
+
+<p align="left"> <a href="https://twitter.com/smartbudai" target="blank"><img src="https://img.shields.io/twitter/follow/smartbudai?logo=twitter&style=for-the-badge" alt="smartbudai" /></a> </p>
+
+- 💬 Ask me about **ai, digital marketing and business growth**
+- 📫 Reach me at **developerinlondon@gmail.com**
+- 
 
 <!--
 **developerinlondon/developerinlondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
