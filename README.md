@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayem Syed!
 
+<h3 align="center">The Original "Developer In London". Professional Nerd 🤓  , Digital Marketer and AI Consultant from UK 🇬🇧</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=developerinlondon alt=developerinlondon/> </p>
+
 <!--
 **developerinlondon/developerinlondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
