@@ -1,12 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayem Syed!</h1>
-<h3 align="center">The Original "Developer In London".<br/>DevOps, AIOps, BizOps, GrowthOps and MarketingOps Consultant<br>from UK 🇬🇧 but living in Dubai 🇦🇪</h3>
+<h3 align="center">Having worked in Technolgoy and Automation for the past 28 years, I now help businesses achieve Exponential Growth using the Power of AI and Automation</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=developerinlondon alt=developerinlondon/> </p>
 
 <p align="left"> <a href="https://twitter.com/smartbudai" target="blank"><img src="https://img.shields.io/twitter/follow/smartbudai?logo=twitter&style=for-the-badge" alt="smartbudai" /></a> </p>
 
-- 💬 Ask me about **ai, digital marketing, business growth and how to live tax free in Dubai! o**
+- 💬 Ask me about **how to massively grow your business using AI and Automation**
 
-- 🗓️ Want to grow your business? Book a FREE Growth Consultation Call with me here 👉🏻 <a href="https://calendly.com/meetnayeem/growth-partner-call">My Calendar</a>
+- 🗓️  Book a FREE Growth Blueprint Mastermind Call with me here 👉🏻 <a href="https://calendly.com/meetnayeem/growth-partner-call">My Calendar</a>
+
+- ⚡ Fun fact: AI was able to beat the world's most powerful chess program (rated 3600, and the best human had a rating of 2800) 99.5 to 0.5 after just 4 hours of training!
 
 <!--
 **developerinlondon/developerinlondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
