@@ -2,7 +2,7 @@
 <h3 align="center">Having worked in Technolgoy and Automation for the past 28 years, I now help businesses achieve Exponential Growth using the Power of AI and Automation</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=developerinlondon alt=developerinlondon/> </p>
 
-<p align="left"> <a href="https://twitter.com/smartbudai" target="blank"><img src="https://img.shields.io/twitter/follow/smartbudai?logo=twitter&style=for-the-badge" alt="smartbudai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wizardnayeem" target="blank"><img src="https://img.shields.io/twitter/follow/smartbudai?logo=twitter&style=for-the-badge" alt="Wizard Supreme" /></a> </p>
 
 - 💬 Ask me about **how to massively grow your business using AI and Automation**
 
