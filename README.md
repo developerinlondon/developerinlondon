@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayem Syed!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nayeem Syed!</h1>
 <h3 align="center">Having worked in Technolgoy and Automation for the past 28 years, I now help businesses achieve Exponential Growth using the Power of AI and Automation</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=developerinlondon alt=developerinlondon/> </p>
 
