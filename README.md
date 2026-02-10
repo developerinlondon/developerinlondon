@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **how to massively grow your business using AI and Automation**
 
-- 🗓️  Book a FREE Growth Blueprint Mastermind Call with me here 👉🏻 <a href="https://calendly.com/meetnayeem/growth-partner-call">My Calendar</a>
+- 🗓️  Book a FREE Growth Blueprint Mastermind Call with me - COMING SOON!
 
 - ⚡ Fun fact: AI was able to beat the world's most powerful chess program (rated 3600, and the best human had a rating of 2800) 99.5 to 0.5 after just 4 hours of training!
 
